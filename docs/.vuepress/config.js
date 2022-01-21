@@ -9,8 +9,8 @@ module.exports = {
             {text: '🏠首页', link: '/'},
             {text: '📖文档', link: '/docs/'},
             {text: '🤔常见问题', link: '/FAQ'},
-            {text: 'GITHUB', link: 'https://github.com/vuepress-reco/vuepress-theme-reco'},
-            {text: 'GITEE', link: 'https://github.com/vuepress-reco/vuepress-theme-reco'}
+            {text: 'GITHUB', link: 'https://github.com/plum429/plumadmin'},
+            {text: 'GITEE', link: 'https://gitee.com/plum429/plumadmin'}
         ],
         // 备案
         record: '黔ICP备20000664号-3',
