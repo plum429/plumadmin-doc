@@ -32,6 +32,16 @@ composer install
 ```shell
 cp .example.env .env
 ```
+
+安装数据表和数据
+:::tip
+后台管理系统的账号:admin 密码:123456
+:::
+```sql
+php think migrate:run
+php think seed:run
+```
+
 开发模式
 :::tip
 如果是win开发环境,可以双击打开同目录下的文件`win环境_定时器_队列.bat`来启动定时器,队列,进行调试
