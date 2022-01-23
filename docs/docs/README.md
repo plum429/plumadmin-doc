@@ -12,7 +12,7 @@ title: 项目介绍
 
 ## 体验地址
 
-[体验地址](http://www.plumcloud.top)
+[体验地址](http://preview.plumcloud.top)
 
 * 体验账号:admin
 * 体验密码:123456
