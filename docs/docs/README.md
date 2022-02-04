@@ -31,9 +31,20 @@ title: 项目介绍
   * 本地文件
   * 数据库 (可查看trace,请求IP,请求参数)
   * EMAIL (可以通过邮箱告知开发者debug错误,方便开发者第一时间快速定位错误)
+* 操作日志
 * 内容管理(文章列表,文章分类)
 * 定时器
 * 队列
 
 ## 预览  
-
+![dashboard](/preview/dashboard.png)
+![上传设置](/preview/上传设置.png)
+![个人设置](/preview/个人设置.png)
+![分类管理](/preview/分类管理.png)
+![操作日志](/preview/操作日志.png)
+![文章管理](/preview/文章管理.png)
+![用户管理](/preview/用户管理.png)
+![菜单](/preview/菜单.png)
+![角色](/preview/角色.png)
+![邮件通知](/preview/邮件通知.png)
+![错误日志](/preview/错误日志.png)
