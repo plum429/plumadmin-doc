@@ -35,11 +35,16 @@ module.exports = {
                 {
                     title: '后端',
                     children: [
-                        'service/',
+                        // 'service/',
                         'service/process',
+                        'service/exception',
+                        'service/log',
                         'service/query',
                         'service/validate',
-                        'service/timer'
+                        'service/timer',
+                        'service/queue',
+                        'service/config',
+                        'service/upload',
                     ]
                 },
                 {
