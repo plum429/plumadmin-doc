@@ -42,17 +42,15 @@ php think migrate:run
 php think seed:run
 ```
 
-开发模式
+启动定时器,队列
 :::tip
-如果是win开发环境,可以双击打开同目录下的文件`win环境_定时器_队列.bat`来启动定时器,队列,进行调试
+如果是win开发环境,可以双击打开同目录下的文件`win环境_定时器_队列.bat`来启动定时器,队列
 :::
 ```shell
-//启动服务
-php think run
-//启动定时器
-php think worker:timer start
-//启动队列
-php think worker:timer start
+//启动定时器,选项-d 为守护进程
+php think worker:timer start -d
+//启动队列,选项-d 为守护进程
+php think worker:timer start -d
 ```
 
 ## 安装前端
